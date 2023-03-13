@@ -3,4 +3,7 @@
 <p>Repositório para as mesas de trabalho.</p>
 <p> Todos os projetos da matéria são com o React.</p>
 
-* <a href="">mesa 05</a>: Listagem de Produtos
+* Mesa 05: Listagem de Produtos
+* Mesa 06: Renderizando componentes específicos
+* Mesa 07: Atualizando o estado de uma lista no React
+* Mesa 08: Eventos com React
