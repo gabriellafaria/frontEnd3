@@ -70,6 +70,18 @@ input {
   margin: 0.1rem 0 0.3rem 2.5rem;
 }
 
+.ulDiv {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigateButton {
+  align-self: center;
+  background-color: #0e0e0e;
+  padding: 1rem 3rem;
+  margin-bottom: 1.5rem;
+}
+
 button, .submitInput {
   border-radius: 8px;
   max-width: 10rem;
